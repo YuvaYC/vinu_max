@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	width: max-width;
+	height: 50px;
+	background: #FF638F;
+	display: flex;
+}
+
+.nav-title{
+	font-family: sans-serif;
+	margin-left: 10px;
+	letter-spacing: 1px;
+	font-size: 30px;
+	color: white;
+}
+
+.nav-links{
+	font-size: 20px;
+	margin-left: 500px;
+}
+
+a{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+
